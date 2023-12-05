@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "Tanta",
+    "address": "Miraflores",
+    "cuisine": "Peruvian",
+    "website": "https://www.tanta.com",
+    "description": "Good!\r\n"
+  },
+  {
+    "name": "Test 2",
+    "address": "San Isidro",
+    "cuisine": "Peruvian",
+    "website": "https://www.tanta.com",
+    "description": "Awesome!"
+  }
+]
