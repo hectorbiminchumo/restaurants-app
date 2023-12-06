@@ -1,5 +1,6 @@
 [
   {
+    "id": "r1",
     "name": "Tanta",
     "address": "Miraflores",
     "cuisine": "Peruvian",
@@ -7,6 +8,7 @@
     "description": "Good!\r\n"
   },
   {
+    "id": "r2",
     "name": "Test 2",
     "address": "San Isidro",
     "cuisine": "Peruvian",
