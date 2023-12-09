@@ -1,18 +1,1 @@
-[
-  {
-    "id": "r1",
-    "name": "Tanta",
-    "address": "Miraflores",
-    "cuisine": "Peruvian",
-    "website": "https://www.tanta.com",
-    "description": "Good!\r\n"
-  },
-  {
-    "id": "r2",
-    "name": "Test 2",
-    "address": "San Isidro",
-    "cuisine": "Peruvian",
-    "website": "https://www.tanta.com",
-    "description": "Awesome!"
-  }
-]
+[{"id":"r1","name":"Tanta","address":"Miraflores","cuisine":"Peruvian","website":"https://www.tanta.com","description":"Good!\r\n"},{"id":"r2","name":"Test 2","address":"San Isidro","cuisine":"Peruvian","website":"https://www.tanta.com","description":"Awesome!"},{"name":"Punto Azul","address":"Miraflores","cuisine":"Peruvian","website":"https://www.puntoazul.com","description":"Good","id":"cb3f5e6f-0316-4a72-b619-69741b44bb70"}]
